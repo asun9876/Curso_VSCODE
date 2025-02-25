@@ -1,0 +1,10 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.cursorBlinking": "solid",
+    "editor.formatOnPaste": true,
+    "editor.fontLigatures": false
+}
